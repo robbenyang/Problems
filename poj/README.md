@@ -1,1 +1,1 @@
-My solutions to [POJ](www.poj.org) problems.
+My solutions to [POJ](http://www.poj.org) problems.
